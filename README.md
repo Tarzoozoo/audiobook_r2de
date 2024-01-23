@@ -19,7 +19,7 @@ This project involves gathering and processing data for a Data Analyst at an Aud
     `gsutil cp scripts/audiobook.py gs://asia-east2-workshop4-2-cffd2a5a-bucket/dags`
 
 4. The data pipeline is shown below:
-    ![DAG_picture]()  
+    ![DAG](https://github.com/Tarzoozoo/audiobook_r2de/blob/main/pictures/dag.png)  
 
 7. Create a view in Google BigQuery, then create the sales dashboard in Looker Studio
 
